@@ -1,2 +1,4 @@
 Hello, This is the project work of powerBi called 'Global Superstore' I performed all the stated Questions mentioned below.In Basic Data Cleaning I Removed  duplicate entries and I Segmented the Visuals by Country, Region, and Market and Analyzed Data by Visualizing the Percentage of Shipping Based on Ship Mode andCalculated the total number of shipments and Created visualizations such as pie charts and bar graphs to show the distribution of shipping methods.Done Sales Analysis Over City, States, Region, and Market , Aggregated sales data at various geographical levels (city, state, region, market).Created visualizations such as heat maps, bar charts, and line graphs to represent sales distribution and trends.Highlighted key insights and patterns in the sales data.Created Tables of Visualizations and Generated summary tables for each visualization to provide a numerical representation of the insights,Ensured tables were clear, concise, and matched the visual data.
-Video Explanation is right here :
+
+
+Video Explanation is right here :https://drive.google.com/file/d/1vqWVj6z00eO9tyBOwzmKTWeo8UaYSvIk/view?usp=drivesdk
